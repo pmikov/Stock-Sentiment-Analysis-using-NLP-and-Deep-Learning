@@ -1,6 +1,6 @@
-## [Stock Sentiment Analysis using NLP and Deep-Learning](https://github.com/pmikov/Stock-Sentiment-Analysis-using-NLP-and-Deep-Learning/blob/main/Stock%20Sentiment%20Analysis%20using%20NLP%20%26%20Deep%20Learning.ipynb)
+## [Stock Sentiment Analysis using NLP and Deep Learning](https://github.com/pmikov/Stock-Sentiment-Analysis-using-NLP-and-Deep-Learning/blob/main/Stock%20Sentiment%20Analysis%20using%20NLP%20%26%20Deep%20Learning.ipynb)
 
-Completed on 14th of March 2021 as final project for "Machine Learning" course at Software University (Jan - Mar 2021)
+Completed on 14th of March 2021 as final project for "Deep Learning" course at Software University (Dec - Mar 2021)
 - course 4 of 4 of "Artificial Intelligence" specialization
 
 ### The project consists of the following chapters:
